@@ -1,0 +1,68 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.btn.btn-round{
+	border-radius: 25px;
+	font-weight: 500;
+}
+
+.immo_logo{
+	width: 175px;
+	padding-top: 12px;
+}
+
+.card .card-title{
+	font-weight: 500;
+}
+
+.card .profile-pic{
+	width: 30px;
+}
+
+.card{
+	width: 45%;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: left;
+	position: relative;
+}
+
+
+.shadows-video{
+
+}
+
+@media only screen and (max-width: 1142px){
+	.card{
+		width: 43%;
+		margin-left: 21px;
+		margin-right: 21px;
+	}
+}
+
+@media only screen and (max-width:600px){
+	.immo_logo{
+		width: 175px;
+		padding-top: 8px;
+	}
+	
+	.card{
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		float: none;
+		position: relative;
+	}
+}
