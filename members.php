@@ -17,17 +17,18 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo grey-text text-darken-3"><?php echo file_get_contents("logo.svg"); ?></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="members.php" class="  grey-text text-darken-2">Member</a></li>
-        <li><a href="maps.php" class="  grey-text text-darken-2">Map</a></li>
+        <li><a href="#" class="  grey-text text-darken-2">Member</a></li>
+        <li><a href="#" class="  grey-text text-darken-2">Map</a></li>
         <li><a href="https://discord.gg/bjgS7x5" target="_blank" class="grey-text text-darken-2"><i class="fab fa-discord"></i></a></li>
         <li><a href="https://instagram.com/immocraft" target="_blank" class="grey-text text-darken-2"><i class="fab fa-instagram"></i></a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-               <li><a href="members.php" class="  grey-text text-darken-2">Member</a></li>
-        <li><a href="maps.php" class="  grey-text text-darken-2">Map</a></li>
-        <li><a href="https://discord.gg/bjgS7x5" target="_blank" class="grey-text text-darken-2"><i class="fab fa-discord"> Discord</i></a></li>
-        <li><a href="https://instagram.com/immocraft" target="_blank" class="grey-text text-darken-2"><i class="fab fa-instagram"> Instagram</i></a></li>
+        <li><a href="#" class="  grey-text text-darken-2">Member</a></li>
+        <li><a href="#" class="  grey-text text-darken-2">Map</a></li>
+        <li><a href="https://discord.gg/bjgS7x5" target="_blank" class="grey-text text-darken-2"><i class="fab fa-discord"></i>Discord</a></li>
+        <li><a href="https://instagram.com/immocraft" class="grey-text text-darken-2"><i class="fab fa-instagram"></i> Instagram</a></li>
+
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger grey-text text-darken-3"><i class="material-icons">menu</i></a>
     </div>

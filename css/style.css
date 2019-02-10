@@ -39,6 +39,9 @@
 	position: relative;
 }
 
+.card-action a{
+	font-weight: bold;
+}
 
 .shadows-video{
 
