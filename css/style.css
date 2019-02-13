@@ -43,6 +43,30 @@
 	font-weight: bold;
 }
 
+
+.warning{
+	margin: 7px 8%;
+	padding:1px 20px;
+	border-radius: 25px;
+}
+
+.fly{
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+}
+
+.chn-information img{
+	width: 55px;
+	float: left;
+	margin-right: 8px;
+}
+
+.chn-information .title{
+	font-size: 20px;
+    font-weight: 500;
+}
+
 .shadows-video{
 
 }
